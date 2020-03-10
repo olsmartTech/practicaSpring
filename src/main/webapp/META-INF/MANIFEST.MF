@@ -1,0 +1,1 @@
+Main-Class: com.nucleoti.searching.core.info.config.SpringBootApp

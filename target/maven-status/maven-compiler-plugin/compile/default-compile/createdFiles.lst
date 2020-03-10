@@ -1,0 +1,16 @@
+com\nucleoti\searching\core\info\model\DocumIden.class
+com\nucleoti\searching\core\info\model\Empleados.class
+com\nucleoti\searching\core\info\controller\ApiRestController.class
+com\nucleoti\searching\core\info\model\RequesSunatJuri.class
+com\nucleoti\searching\core\info\model\RepresentanteLegal.class
+com\nucleoti\searching\core\info\config\SpringBootApp.class
+com\nucleoti\searching\core\info\model\constantes\UtilsConsultas.class
+com\nucleoti\searching\core\info\Service\ApiServiceImpl.class
+com\nucleoti\searching\core\info\model\constantes\Constantes.class
+com\nucleoti\searching\core\info\config\CheckoutdataProperties.class
+com\nucleoti\searching\core\info\model\ResponGenerally.class
+com\nucleoti\searching\core\info\Service\ApiService.class
+com\nucleoti\searching\core\info\model\Locales.class
+com\nucleoti\searching\core\info\model\RepresentLegal.class
+com\nucleoti\searching\core\info\model\RequesSunatNatu.class
+com\nucleoti\searching\core\info\config\AppConfig.class

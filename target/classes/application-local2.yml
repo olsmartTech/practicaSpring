@@ -1,0 +1,17 @@
+checkoutdata:
+    properties:
+      urlorigen:
+        sunat-url:  https://api.sunat.cloud/ruc/
+        reniec-url: https://api.sunat.cloud/ruc/
+
+firebase:
+  system:
+    config:
+      service-account: classpath:firebase/school-supplies-ci-firebase-adminsdk-43rv8-65a3d2c34f.json
+      database-url: https://db-test-aprendizaje-rt.firebaseio.com/
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/dbTest?useSSL=false
+    username: root
+    password: 12345678
