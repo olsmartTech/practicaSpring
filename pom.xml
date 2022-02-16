@@ -22,7 +22,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <commons-io.version>2.5</commons-io.version>
         <modelmapper.version>2.3.2</modelmapper.version>
-        <postgresql.version>42.2.5</postgresql.version>
+        <postgresql.version>42.3.3</postgresql.version>
     </properties>
     <!-- https://mvnrepository.cjdbcom/artifact/com.oracle/ojdbc14 -->
 
